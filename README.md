@@ -1,39 +1,27 @@
-<h1 align="center">Hi :)</h1>
+<h1 align="center">nochinsky</h1>
+
+<p align="center"><i>systems programming · Linux · low-level tooling</i></p>
 
 ---
 
-<h2 align="left">🧊 About me</h2>
+I mostly write Rust and C, with TypeScript when something needs to be usable.
+I'm interested in the parts of a system you can't see — memory, processes,
+isolation, the machinery underneath — and I care more about how code behaves
+under pressure than how it reads in a diff.
 
-- Exploring systems programming
-- Obsessed with clean, minimal, fast code
-- Linux power user
-- Goals: contribute to open source, build neat CLI
+#### Tools
 
----
+`Rust` · `C` · `TypeScript` · `Linux` · `Shell` · `Git`
 
-<h2 align="left">🛠 Languages & Tools</h2>
+#### Building
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" alt="Rust" />
-</div>
+- [**moat**](https://github.com/nochinsky/moat) — runs an AI coding agent inside a disposable, isolated Linux box, so the agent never touches your host.
+- [**archsync**](https://github.com/nochinsky/archsync) — save and restore every Arch Linux package, repo and AUR, in one command.
 
----
+#### Also
 
-<h2 align="left">🌌 Currently</h2>
-
-- Learning: advanced Rust traits & lifetimes, C++20/23
-- Tinkering with CS:GO HVH cheats...
+Learning C++, and slowly writing the small CLI tools I keep wishing existed.
 
 ---
 
-<h2 align="left">📫 Connect with me</h2>
-
-[https://e-z.bio/nochinsky](https://e-z.bio/nochinsky)
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,rust,linux" alt="skills" />
-</p>
+<p align="center"><a href="https://e-z.bio/nochinsky">e-z.bio/nochinsky</a></p>
