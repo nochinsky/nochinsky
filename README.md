@@ -10,7 +10,10 @@ Rust and C for CLI tools and systems work. TypeScript when a tool needs a UI.
 
 ### Open source
 
-[Pull requests](https://github.com/search?q=author%3Anochinsky+is%3Apr&type=pullrequests) · [Current contribution: JSON metrics in phi-agent](https://github.com/hibuka-labs/phi-agent/pull/44)
+[Pull requests](https://github.com/search?q=author%3Anochinsky+is%3Apr&type=pullrequests)
+
+- [phi-agent #44](https://github.com/hibuka-labs/phi-agent/pull/44): JSON output for session metrics.
+- [gixor #78](https://github.com/tamada/gixor/pull/78): CLI lists without repository headers.
 
 ---
 
