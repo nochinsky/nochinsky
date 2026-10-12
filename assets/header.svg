@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="220" viewBox="0 0 1120 220" role="img" aria-labelledby="title description">
+  <title id="title">nochinsky — Rust, C and Linux</title>
+  <desc id="description">A dark terminal-style header for nochinsky's projects in Rust, C and Linux tooling.</desc>
+  <rect x="1" y="1" width="1118" height="218" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 52H1119" stroke="#30363d"/>
+  <g fill="#484f58">
+    <circle cx="30" cy="27" r="5"/>
+    <circle cx="49" cy="27" r="5"/>
+    <circle cx="68" cy="27" r="5"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="96" y="33" fill="#8b949e" font-size="15">~/projects</text>
+    <text x="38" y="119" fill="#79c0ff" font-size="48" font-weight="700">&gt; nochinsky</text>
+    <text x="40" y="159" fill="#c9d1d9" font-size="20">Rust + C + Linux</text>
+    <text x="40" y="188" fill="#8b949e" font-size="15">CLI tools / system integration / experiments</text>
+    <text x="908" y="101" fill="#8b949e" font-size="15">01 / build</text>
+    <text x="908" y="131" fill="#8b949e" font-size="15">02 / test</text>
+    <text x="908" y="161" fill="#8b949e" font-size="15">03 / improve</text>
+  </g>
+  <path d="M866 81V173" stroke="#30363d"/>
+</svg>
